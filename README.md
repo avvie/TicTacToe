@@ -1,4 +1,4 @@
-# TicTacToe or Naughts and Crosses
+# TicTacToe or Noughts and Crosses
 
 Is a unity project that was requested of me.
 It implements 3 different difficulty modes. (expert is smug probably the most important part of the project ^^ *jk) 
